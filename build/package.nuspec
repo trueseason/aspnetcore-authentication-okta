@@ -3,9 +3,11 @@
     <metadata>
         <id>AspNetCore.Authentication.Okta</id>
         <version>1.0.0</version>
-        <description>AspNetCore.Authentication.Okta</description>
         <authors>Singtone Contributors</authors>
 		<language>en-US</language>
+		<license type="expression">MIT</license>
+		<repository type="git" url="https://github.com/trueseason/aspnetcore-authentication-okta.git" />
+		<description>A helper module of Okta SSO for ASP.NET Core.</description>
 		<dependencies>
 			<group targetFramework="netcoreapp3.1">
 				<dependency id="Okta.AspNetCore" version="3.5.0" />
